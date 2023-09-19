@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/senchola-university/static/css/main.a6506d44.css",
+    "main.js": "/senchola-university/static/js/main.726e5664.js",
+    "static/js/787.fe32413b.chunk.js": "/senchola-university/static/js/787.fe32413b.chunk.js",
+    "static/media/Rectangle 4597.png": "/senchola-university/static/media/Rectangle 4597.f3f57a37d822c871a76b.png",
+    "static/media/Rectangle 4584.png": "/senchola-university/static/media/Rectangle 4584.984de173c9f2a25e0664.png",
+    "static/media/guy-lesson 2.png": "/senchola-university/static/media/guy-lesson 2.cb54ce5269b0bfc298d0.png",
+    "static/media/unsplash_0Zx1bDv5BNY.png": "/senchola-university/static/media/unsplash_0Zx1bDv5BNY.ecf9a0465ab3344cb4b8.png",
+    "static/media/Rectangle 18.png": "/senchola-university/static/media/Rectangle 18.f28b345e776e816afcb1.png",
+    "static/media/Rectangle 19.png": "/senchola-university/static/media/Rectangle 19.c0e8cd2aaf4d7e0b6f5d.png",
+    "static/media/Rectangle 20.png": "/senchola-university/static/media/Rectangle 20.509289f6122bb8983ebd.png",
+    "static/media/profileImg4.png": "/senchola-university/static/media/profileImg4.c37b3dad2d5dcd6d14f7.png",
+    "static/media/profileImg2.png": "/senchola-university/static/media/profileImg2.0139be219d2be584008c.png",
+    "static/media/profileImg3.jpg": "/senchola-university/static/media/profileImg3.eb25d0cfd06b0c2c9aab.jpg",
+    "static/media/profileImg1.png": "/senchola-university/static/media/profileImg1.2bf07b7c8764af1b2404.png",
+    "index.html": "/senchola-university/index.html",
+    "main.a6506d44.css.map": "/senchola-university/static/css/main.a6506d44.css.map",
+    "main.726e5664.js.map": "/senchola-university/static/js/main.726e5664.js.map",
+    "787.fe32413b.chunk.js.map": "/senchola-university/static/js/787.fe32413b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6506d44.css",
+    "static/js/main.726e5664.js"
+  ]
+}
